@@ -5,6 +5,8 @@
 Welcome to the Yulu Hypothesis Testing project! 🇮🇳
 
 Yulu is India's leading micro-mobility service provider, committed to eliminating traffic congestion by offering unique shared electric cycles for daily commutes. 🚴‍♂️🛴
+![download](https://github.com/santhosh-spark/Yulu_Hypothesis_Testing/assets/73495628/6bd17afc-8776-4c64-82fe-d1557599fff3)
+
 
 ## About Yulu 🚀
 
